@@ -1,0 +1,17 @@
+
+#business-property-form {
+
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../assets/Capture.PNG);
+
+background-repeat: no-repeat;
+background-size: cover;
+  align-items: center;
+
+
+
+  /* border: 1px solid black; */
+}
+
+

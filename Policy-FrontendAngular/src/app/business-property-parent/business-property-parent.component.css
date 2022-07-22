@@ -1,0 +1,14 @@
+#business-property-parent-div {
+  display: grid;
+
+  grid-template-columns: repeat(2, 1fr);
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4foAIj1RZQ0cIPeRmpAhbfKMhXCFrjkW1pw&usqp=CAU");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 1px solid green;
+
+  height: 100%;
+}
+
+
